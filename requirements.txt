@@ -7,4 +7,7 @@ catboost
 xgboost
 dill
 flask
+denseclus
+hdbscan
+umap
 #-e .
